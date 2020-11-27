@@ -4,5 +4,5 @@ I'm a Software Engineer and currently working in the Galli Group at the Universi
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=anti-mony&count_private=true&show_icons=true&theme=tokyonight&hide=stars" align="left" width='55%'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anti-mony&layout=compact&theme=tokyonight" align="left" width='40%'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anti-mony&layout=compact&theme=tokyonight&hide=html" align="left" width='40%'>
 </div>
