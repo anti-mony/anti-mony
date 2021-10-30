@@ -1,6 +1,6 @@
-# Hi, I'm Sushant
-
-I'm a Software Engineer and currently working in Mavenir Systems Incorporated. I write a lot of code here, mostly in Python, JavaScript and C#. I've enjoyed meeting all the different people here [virtually :(] at Mavenir.  
+# Hello, I'm Sushant
+I'm a full stack software engineer currently working at Mavenir Systems Incorporated. I design and write a lot of code here, mostly in C#, JavaScript and Python  
+for both inernal and client facing applications/services. Looking for a new opportunity !
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=anti-mony&count_private=true&show_icons=true&theme=tokyonight&hide=stars" align="left" width='55%'>
